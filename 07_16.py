@@ -25,7 +25,7 @@ print(decode(data[1]))
 # print(factorial(10))
 
 
-# работает но не рекурсія 
+# Працює але не рекурсія 
 
 # def decode(data):
 #     result = ""
